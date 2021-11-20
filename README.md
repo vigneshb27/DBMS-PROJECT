@@ -1,2 +1,3 @@
 # DBMS-PROJECT
-TO CREATE A DATABASE PHD DETAILS , AND DO SOME FRONT END TASKS...
+Add your works to this branch after verification it will be added to the main branch
+
