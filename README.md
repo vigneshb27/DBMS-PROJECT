@@ -1,3 +1,5 @@
 # DBMS-PROJECT
-Add your works to this branch after verification it will be added to the main branch
+TO CREATE A DATABASE PHD DETAILS , AND DO SOME FRONT END TASKS...
+# NOTE
+Add your works to the 'work' it will be verified and later added to the main branch
 
