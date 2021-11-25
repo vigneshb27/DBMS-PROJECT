@@ -1,5 +1,3 @@
-
-<?php include('server.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,7 +33,7 @@
                         <div class="row register-form">
                            
                             <div class="col-md-6">
-                                <form action="staff_login.php" method = "post">
+                                <form action="server.php" method = "post">
                                 <div class="form-group">
                                     <input type="text" name = "id" class="form-control" placeholder="Your ID *" required/>
                                 </div>
@@ -56,4 +54,3 @@
     </div>				                            
 </body>
 </html>
-
